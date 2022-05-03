@@ -1,9 +1,8 @@
-import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  let content : string = "Hello world";
+  const content : string = 'Hello world';
   return (
     <div className="App">
       <header className="App-header">
